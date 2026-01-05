@@ -1,0 +1,8 @@
+name: "muds"
+displayName: "mundusro bundle"
+author: "dazenitterraria"
+description: "uhh [red] wip, [white]now the game looks like had MF's english accent"
+version: "1.0"
+minGameVersion: "150"
+hidden: true
+subtitle: "Goofballs"
